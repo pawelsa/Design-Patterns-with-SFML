@@ -1,4 +1,4 @@
-# ObserverPattern-with-SFML
+# Design Patterns with SFML
 
 Used patterns :
   - Observer
